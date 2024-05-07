@@ -1,5 +1,5 @@
 import Link from "next/link";
-import 'hero.css'
+import './hero.css'
 import Image from 'next/image'
 
 const Hero = () => {
